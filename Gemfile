@@ -28,6 +28,12 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
+# Add Foundation to your Rails app
+gem 'foundation-rails', '>=6.0'
+
+# Include jQuery js
+gem 'jquery-rails'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
